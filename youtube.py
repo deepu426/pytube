@@ -1,3 +1,5 @@
+#youtube video download simple script
+#created by deepz
 from pytube import YouTube
 
 star="*"*50
